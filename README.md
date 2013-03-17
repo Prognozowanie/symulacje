@@ -1,0 +1,4 @@
+symulacje
+=========
+
+Prognozowaniei symulacje
